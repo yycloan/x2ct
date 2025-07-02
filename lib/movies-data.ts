@@ -1062,7 +1062,7 @@ export const movies: Movie[] = [
     isTrending: true,
   },
   {
-    id: "94",
+    id: "53",
     title: "Squid Game Season 3 (2025)",
     poster: "https://9jarocks.net/wp-content/uploads/2025/06/Squid-Game_Poster.jpg",
     backdrop: "https://9jarocks.net/wp-content/uploads/2025/06/Squid-Game_Poster.jpg",
@@ -1123,6 +1123,96 @@ export const movies: Movie[] = [
     isNew: true,
     isTrending: true,
     isFeatured: true,
+  },
+  {
+    id: "54",
+    title: "Kings of JoBurg Season 1",
+    poster: "https://9jarocks.net/wp-content/uploads/2023/01/5fc9fa7aa0dcb.jpg",
+    backdrop: "https://9jarocks.net/wp-content/uploads/2023/01/5fc9fa7aa0dcb.jpg",
+    genre: ["Crime", "Drama", "Fantasy", "Thriller"],
+    year: 2021,
+    rating: 7.5,
+    views: 160000,
+    quality: "WEBRip",
+    slug: "kings-of-joburg-season-1",
+    duration: "6 Episodes Available",
+    description:
+      "The Masire brothers rule Johannesburg's criminal underworld, but a supernatural family curse and a tangled web of betrayal threaten to destroy them.",
+    cast: ["Shona Ferguson", "Zolisa Xaluva", "Sello Sebotsane"],
+    director: "Shona Ferguson",
+    country: "South Africa",
+    language: "English",
+    multipleDownloads: [
+      {
+        label: "Episode 1",
+        url: "https://strtape.tech/v/dOOw7wmeayHkJAk/Kings.of.JoBurg.S01E01.480p.WEBRip.x265.%5B9jaRocks.Com%5D.mkv.mp4",
+        embedCode:
+          '<iframe src="https://strtape.tech/e/dOOw7wmeayHkJAk/" width="800" height="600" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"></iframe>',
+      },
+      {
+        label: "Episode 2",
+        url: "https://strtape.tech/v/mDp3goQBqpUbgoM/Kings.of.JoBurg.S01E02.480p.WEBRip.x265.%5B9jaRocks.Com%5D.mkv.mp4",
+        embedCode:
+          '<iframe src="https://strtape.tech/e/mDp3goQBqpUbgoM/" width="800" height="600" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"></iframe>',
+      },
+      {
+        label: "Episode 3",
+        url: "https://strtape.tech/v/abvkYQZor0fxXKA/Kings.of.JoBurg.S01E03.480p.WEBRip.x265.%5B9jaRocks.Com%5D.mkv.mp4",
+        embedCode:
+          '<iframe src="https://strtape.tech/e/abvkYQZor0fxXKA/" width="800" height="600" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"></iframe>',
+      },
+      {
+        label: "Episode 4",
+        url: "https://strtape.tech/v/RBB6RoV2r7CdPdv/Kings.of.JoBurg.S01E04.480p.WEBRip.x265.%5B9jaRocks.Com%5D.mkv.mp4",
+        embedCode:
+          '<iframe src="https://strtape.tech/e/RBB6RoV2r7CdPdv/" width="800" height="600" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"></iframe>',
+      },
+      {
+        label: "Episode 5",
+        url: "https://strtape.tech/v/zKXmOXPgoDhYMJm/Kings.of.JoBurg.S01E05.480p.WEBRip.x265.%5B9jaRocks.Com%5D.mkv.mp4",
+        embedCode:
+          '<iframe src="https://strtape.tech/e/zKXmOXPgoDhYMJm/" width="800" height="600" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"></iframe>',
+      },
+    ],
+    videoUrl: "https://strtape.tech/e/dOOw7wmeayHkJAk/",
+    downloadUrl:
+      "https://strtape.tech/v/dOOw7wmeayHkJAk/Kings.of.JoBurg.S01E01.480p.WEBRip.x265.%5B9jaRocks.Com%5D.mkv.mp4",
+    isNew: false,
+    isTrending: true,
+    isFeatured: false,
+  },
+  {
+    id: "55",
+    title: "Kings of JoBurg Season 2",
+    poster: "https://9jarocks.net/wp-content/uploads/2023/01/63c13c1fe5f32.jpg",
+    backdrop: "https://9jarocks.net/wp-content/uploads/2023/01/63c13c1fe5f32.jpg",
+    genre: ["Crime", "Drama", "Fantasy", "Thriller"],
+    year: 2023,
+    rating: 7.6,
+    views: 130000,
+    quality: "WEBRip",
+    slug: "kings-of-joburg-season-2",
+    duration: "8 Episodes Available",
+    description:
+      "The Masire brothers rule Johannesburg's criminal underworld, but a supernatural family curse and a tangled web of betrayal threaten to destroy them.",
+    cast: ["Shona Ferguson", "Zolisa Xaluva", "Sello Sebotsane"],
+    director: "Shona Ferguson",
+    country: "South Africa",
+    language: "English",
+    multipleDownloads: [
+      {
+        label: "Episode 3",
+        url: "https://strtape.tech/v/J31jqXzd3zHj8da/Kings.of.JoBurg.S02E03.480p.NF.WEBRip.x265.%5B9jaRocks.Com%5D.mkv.mp4",
+        embedCode:
+          '<iframe src="https://strtape.tech/e/J31jqXzd3zHj8da/" width="800" height="600" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"></iframe>',
+      },
+    ],
+    videoUrl: "https://strtape.tech/e/J31jqXzd3zHj8da/",
+    downloadUrl:
+      "https://strtape.tech/v/J31jqXzd3zHj8da/Kings.of.JoBurg.S02E03.480p.NF.WEBRip.x265.%5B9jaRocks.Com%5D.mkv.mp4",
+    isNew: true,
+    isTrending: false,
+    isFeatured: false,
   },
 ]
 
